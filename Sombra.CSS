@@ -1,0 +1,28 @@
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    margin: 10%;
+    padding-left: 25%;
+    text-shadow: 2px 3px 4px #000000;
+}
+p{
+    margin: -7%;
+    padding: - 13%;
+    text-align: center;
+    color: rgb(248, 76, 110);
+    font-size: 130%;
+    background: url(wallpaperflare.com_wallpaper.jpg);
+    box-shadow: inset 2px 1px 4px 2px ;
+}
+h2 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(144, 144, 219), 0 0 5px rgb(70, 70, 196);
+    margin: 10%;
+}
+div{
+    border-radius: 3px solid;
+    width: 500px;
+    margin: 10%
+   
+    
+}
